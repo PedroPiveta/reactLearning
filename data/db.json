@@ -29,6 +29,18 @@
       "body": "....",
       "author": "mario",
       "id": 5
+    },
+    {
+      "title": "Lorem ipsum",
+      "body": "random things ",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "New",
+      "body": "aaaaa",
+      "author": "mario",
+      "id": 7
     }
   ]
 }
